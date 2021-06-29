@@ -1,2 +1,2 @@
-# EE290_IoT
-EE290 Project
+# EE290_IoT Mini-Project
+Abstract- Indoor localization is an important issue in the Internet of Things and it has been the trend of study in the past years. Different artificial intelligence-based approaches are applied to solve localization issues and improve performance accuracy in wireless technology devices. In this paper, we examine machine learning techniques, K-Nearest Neighbor (KNN), Random Forest and Support Vector Machine, and compare them with simple trilateration, in terms of accuracy. We present a comprehensive analysis between the given machine learning techniques through the use of three technology devices: ZigBee, Bluetooth and Wi-Fi, along with three experimental scenarios. According to the findings, among the other machine learning techniques, Random Forest is the most accurate localization technique with the least localization error. 
